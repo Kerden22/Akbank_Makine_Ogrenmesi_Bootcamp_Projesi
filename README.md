@@ -5,6 +5,8 @@
 
 Bu proje, kredi kartı ile yapılan işlemler arasından dolandırıcılık içerenleri tespit etmeye yönelik bir makine öğrenmesi çalışmasıdır. Proje, Akbank ML Bootcamp kapsamında gerçekleştirilmiştir ve gözetimli öğrenme tekniklerini kullanarak sınıflandırma modeli geliştirmeyi hedeflemiştir.
 
+Kaggle linki: https://www.kaggle.com/code/keremerden/akbank-makine-renmesi-bootcamp
+
 ## 📁 Kullanılan Veri Seti
 
 -   **Kaynak:** [Kaggle - Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
