@@ -38,47 +38,15 @@ Bu proje, kredi kartı ile yapılan işlemler arasından dolandırıcılık içe
 
 ## 🧐 Uygulanan Modeller ve Sonuçlar
 
-Sıra
+| Sıra | Model                  | Accuracy    |
+|------|------------------------|-------------|
+| 1    | Random Forest          | 0.9994      |
+| 2    | XGBoost                | 0.9994      |
+| 3    | CatBoost               | 0.9987      |
+| 4    | K-Nearest Neighbors    | 0.9980      |
+| 5    | Logistic Regression    | 0.9899      |
+| 6    | Naive Bayes            | 0.9751      |
 
-Model
-
-Accuracy
-
-1
-
-Random Forest
-
-0.9994
-
-2
-
-XGBoost
-
-0.9994
-
-3
-
-CatBoost
-
-0.9987
-
-4
-
-K-Nearest Neighbors
-
-0.9980
-
-5
-
-Logistic Regression
-
-0.9899
-
-6
-
-Naive Bayes
-
-0.9751
 
 > ✅ En başarılı modeller Random Forest ve XGBoost olmuştur.
 
